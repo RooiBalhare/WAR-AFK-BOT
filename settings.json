@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "W-A-R.aternos.me",
-    "port": 60317,
+    "port":60317,
     "version": "",
     "try-creative": false
   },
