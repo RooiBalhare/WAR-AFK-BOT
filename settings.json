@@ -1,14 +1,14 @@
 {
   "name": "AFKBot",
   "bot-account": {
-    "username": "WARbot00",
-    "password": "Rolo@2009",
+    "username": "WarBot",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "W-A-R.aternos.me",
     "port":60317,
-    "version": "",
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
