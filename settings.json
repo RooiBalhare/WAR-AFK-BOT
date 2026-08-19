@@ -1,13 +1,13 @@
 {
   "name": "AFKBot",
   "bot-account": {
-    "username": "WarBot",
+    "username": "DAPEACE-BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "W-A-R.aternos.me",
-    "port":60317,
+    "ip": "DAPEACESMP.aternos.me",
+    "port":29310,
     "version": "1.26.2",
     "try-creative": false
   },
