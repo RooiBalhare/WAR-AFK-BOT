@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cpmsmp-sNEF.exaroton.me",
-    "port": 12209,
-    "version": "",
+    "ip": "DAPEACESMP.aternos.me",
+    "port": 29310,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
